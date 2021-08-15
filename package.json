@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Using Jest to practice creating unit tests.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwolt/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwolt/testing-practice/issues"
+  },
+  "homepage": "https://github.com/rwolt/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
